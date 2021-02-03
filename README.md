@@ -1,4 +1,4 @@
-# assembly-labyrinth
+# assembly-labyrinth v4.0 AngeloCocomazzi
 OPEN DOSBOX - 
 SPOSTARSI NELLA CARTELLA DOVE PRESENTI I FILE DA BUILDARE - 
 ASSEMBLATORE: TASM /L /ZI NOMEFILE.ASM - 
